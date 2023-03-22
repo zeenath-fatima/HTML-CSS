@@ -1,0 +1,143 @@
+.filter-part{
+    display: inline-block;
+    width: 260px;
+    height: 682px;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-left: 72px;
+    margin-bottom: -177px;
+    margin-top: 50px;
+}
+.logo{
+    color: red;
+    background-color: white;
+    height: 59px;
+    width: 67px;
+    border-radius: 60%;
+    margin-left: 82px;
+    margin-top: 1px;
+    text-align: center;
+    font-size: 73px;
+}
+
+.navbar{
+    background-color: red;
+    height: 80px;
+    width: 1515px;
+}
+.head-part{
+    font-size: 50px;
+    margin-left: 73px;
+    color: #192F60;
+    font-weight: bold;
+}
+.result-part{
+    display: inline-block;
+    position: absolute;
+    width: 1093px;
+    height: 279px;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-left: 21px;
+    margin-top: 51px;
+}
+
+.H1{
+    font-size: 205%;
+    position: absolute;
+    margin-left: 250px;
+    margin-top: -125px;
+    color: #192F60;
+    font-weight: bold;
+  
+}
+    
+.H2{
+    font-size: 112%;
+    position: absolute;
+    margin-left: 250px;
+    margin-top: -77px;
+    color: #192F60;
+    font-weight: 100;
+}
+
+
+
+.H3{
+    font-size: 119%;
+    position: absolute;
+    margin-left: 248px;
+    margin-top: -47px;
+    color:#8C96AB;
+    font-weight: 100;
+}
+.RESULTS-PART2{
+    display: inline-block;
+    position: absolute;
+    margin-left: 55px;
+    color: #8C96AB;
+    font-weight: bold;
+    margin-top: 4px;
+}
+.RESULTS-PART3{
+    display: inline-block;
+    position: absolute;
+    margin-left: 255px;
+    margin-top: 6px;
+    color: #192F60;
+    font-weight: bold;
+}
+
+.result-part4{
+    display: inline-block;
+    position: absolute;
+    width: 1104px;
+    height: 279px;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-left: 23px;
+    margin-top: 373px;
+}
+.RESULTS-PART5{
+    display: inline-block;
+    position: absolute;
+    margin-left: 53px;
+    color: #8C96AB;
+    font-weight: bold;
+    margin-top: 73px;
+}
+.RESULTS-PART6{
+    display: inline-block;
+    position: absolute;
+    margin-left: 262px;
+    margin-top: 6px;
+    color: #192F60;
+    font-weight: bold;
+}
+.align{
+    margin-left: 37px;
+    line-height: 34px;
+}
+.foot{
+    margin-left: 770px;
+    margin-top: 0px;
+}
+
+.hr {
+    margin: 2rem 0;
+    color: inherit;
+    border: 0;
+    border-top: 1px solid;
+    opacity: .25;
+    WIDTH: 996px;
+    margin-left: 46px;
+}
+.hr1 {
+    margin: 2rem 0;
+    color: inherit;
+    border: 0;
+    border-top: 1px solid;
+    opacity: .25;
+    WIDTH: 996px;
+    margin-left: 46px;
+}
+
+
+
